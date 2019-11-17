@@ -1,0 +1,4 @@
+/Users/cj/Exercism/cpp/leap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/cj/Exercism/cpp/leap/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cj/Exercism/cpp/leap/cmake-build-debug/CMakeFiles/test_leap.dir
+/Users/cj/Exercism/cpp/leap/cmake-build-debug/CMakeFiles/leap.dir

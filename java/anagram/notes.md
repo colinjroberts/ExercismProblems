@@ -1,0 +1,1 @@
+Knowing that I wasn't given a class to start with (and knowing that this is only my third or fourth exercise and I haven't received any mentor feedback yet) I took a look at previous excerise and modeled my class on that. 
